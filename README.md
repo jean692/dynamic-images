@@ -1,7 +1,7 @@
 # Dynamic Image Viewer
 
 A simple Android application built with Kotlin that dynamically loads and displays images. The app allows users to interact with images and explore a dynamic gallery.
-
+![Screenshot](App-creenshot-1.png)
 ## Features
 - View images dynamically.
 - Support for responsive UI across different screen sizes.
