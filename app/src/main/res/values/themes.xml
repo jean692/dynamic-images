@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use a Material Components theme -->
+    <style name="Theme.DynamicImageViewer" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary colors for the app -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary colors for accents -->
+        <item name="colorSecondary">@color/lavender</item>
+        <item name="colorSecondaryVariant">@color/light_green</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Background color for app theme -->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

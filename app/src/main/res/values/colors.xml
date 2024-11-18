@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color> <!-- colorPrimary -->
+    <color name="purple_700">#FF3700B3</color> <!-- colorPrimaryVariant -->
+
+    <!-- Accent Colors -->
+    <color name="teal_200">#FF03DAC5</color> <!-- colorSecondary -->
+    <color name="teal_700">#FF018786</color> <!-- colorSecondaryVariant -->
+
+    <!-- Text and Background Colors -->
+    <color name="black">#FF000000</color> <!-- colorOnSecondary -->
+    <color name="white">#FFFFFFFF</color> <!-- colorOnPrimary -->
+
+    <!-- New Colors -->
+    <color name="lavender">#E6E6FA</color> <!-- Soft Lavender -->
+    <color name="light_green">#90EE90</color> <!-- Light Green -->
+    <color name="medium_green">#66BB6A</color> <!-- Medium Green for buttons or accents -->
+
+    <!-- Material Design Colors for Themes -->
+    <color name="colorPrimary">#6200EE</color> <!-- Matches purple_500 -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Matches purple_700 -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White for contrast on primary -->
+    <color name="colorSecondary">#03DAC5</color> <!-- Matches teal_200 -->
+    <color name="colorSecondaryVariant">#018786</color> <!-- Matches teal_700 -->
+    <color name="colorOnSecondary">#000000</color> <!-- Black for contrast on secondary -->
+</resources>
